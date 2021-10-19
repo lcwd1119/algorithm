@@ -1,0 +1,28 @@
+cmake_minimum_required(VERSION 3.17)
+project(algorithm)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(algorithm
+        1-1.cpp)
+
+add_executable(1-1 1-1.cpp)
+add_executable(123 123.cpp)
+add_executable(1-2 1-2.cpp)
+add_executable(1-3 1-3.cpp)
+add_executable(1-4 1-4.cpp)
+add_executable(2-1 2-1.cpp)
+add_executable(2-2 2-2.cpp)
+add_executable(2-3 2-3.cpp)
+add_executable(2-4 2-4.cpp)
+add_executable(3-1 3-1.cpp)
+add_executable(3-2 3-2.cpp)
+add_executable(3-3 3-3.cpp)
+add_executable(4-1 4-1.cpp)
+add_executable(4-2 4-2.cpp)
+add_executable(4-3 4-3.cpp)
+add_executable(5-1 5-1.cpp)
+add_executable(111 111.cpp)
+add_executable(6-1 6-1.cpp)
+add_executable(6-2 6-2.cpp)
+add_executable(5-1-2 5-1-2.cpp)
